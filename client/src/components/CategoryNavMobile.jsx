@@ -20,7 +20,7 @@ const CategoryNavMobile = ({ setCatNavMobile }) => {
       <div className="flex flex-col gap-y-8">
         {data?.map((category) => {
           return <Link to={`products/${category.id}`} className="uppercase font-medium" key={category.id}>
-          {category.attributes.title} Cameras
+          {category.attributes.title} 
           </Link>;
         })}
       </div>
