@@ -34,7 +34,7 @@ const Hero = () => {
                   className="text-[20px] uppercase font-medium leading-tight 
                 mb-4"
                 >
-                  Save 35% all dslr cameras
+                  Save 30% all dslr cameras
                 </div>
                 <a href="#" className="uppercase text-accent">
                   Shop now
